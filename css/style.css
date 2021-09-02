@@ -1,3 +1,5 @@
+@media only screen and (min-width: 1250px) {
+
 body {
   background-color: #f5f7fa;
   font-family: 'Montserrat', sans-serif;
@@ -93,13 +95,6 @@ body {
   color: #595959;
 }
 
-.my-projects-bracket {
-  font-style: normal;
-  font-weight: bold;
-  font-size: 14px;
-  line-height: 24px;
-  color: #000000;
-}
 /* my work experience */
 .my-work-experience-section {
   margin-bottom: 45px;
@@ -243,3 +238,4 @@ body {
   color: #ffffff;
 }
 
+}
